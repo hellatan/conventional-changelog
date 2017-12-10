@@ -90,7 +90,7 @@ This is the place to modify the parsed commits.
 
 ####### commit
 
-The commit from conventional-commits-parser.
+The commit from [conventional-commits-parser](../conventional-commits-parser).
 
 ####### cb
 
